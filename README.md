@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# 🚀 FlashLearn
-
-FlashLearn is an AI-powered learning platform that transforms PDFs and YouTube videos into interactive quizzes, making exam preparation faster and more engaging. 
-=======
-# 🚀 Studybuddy
+# 🚀 Studybuddy/FlashLearn
 
 Studybuddy is an AI-powered learning platform that transforms PDFs and YouTube videos into interactive quizzes, making exam preparation faster and more engaging. 
 >>>>>>> 185fdc1ef4455cf0a8e233b5e9ce6d9f78eb883b
@@ -17,13 +12,6 @@ An AI-driven platform that:
 🎥 Converts YouTube videos into bite-sized quizzes  
 🏆 Tracks progress with leaderboards and streaks  
 🤖 Provides instant doubt-solving via AI chatbot  
-
-<<<<<<< HEAD
-## 👨‍💻 Team DevSquad
-- Sachin Sharma  
-- Vansh Tyagi  
-- Aparna Ojha  
-- Ankit Gupta  
 
 =======
 >>>>>>> 185fdc1ef4455cf0a8e233b5e9ce6d9f78eb883b
@@ -65,10 +53,6 @@ An AI-driven platform that:
 
 1. **Clone the repository**:
    ```bash
-<<<<<<< HEAD
-   git clone https://github.com/your-repo/flashlearn.git
-   cd flashlearn
-=======
    git clone https://github.com/iamaparnaojha/studybuddy.git
    cd studybuddy
 >>>>>>> 185fdc1ef4455cf0a8e233b5e9ce6d9f78eb883b
@@ -135,13 +119,4 @@ An AI-driven platform that:
    - **Click the link** shown in the client terminal to open the application.
    - To stop the client, press `Ctrl + C` in the terminal.
 <<<<<<< HEAD
-  
-
-### 📩 Contact Us
-If you have any queries or suggestions, feel free to contact us:
-- sachinsharma11175@gmail.com
-- vanshjii021@gmail.com
-- ojhaaparna0@gmail.com
-- ankitgupta23sep@gmail.com
-=======
->>>>>>> 185fdc1ef4455cf0a8e233b5e9ce6d9f78eb883b
+ 
