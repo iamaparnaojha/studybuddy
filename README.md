@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # 🚀 FlashLearn
 
 FlashLearn is an AI-powered learning platform that transforms PDFs and YouTube videos into interactive quizzes, making exam preparation faster and more engaging. 
+=======
+# 🚀 Studybuddy
+
+Studybuddy is an AI-powered learning platform that transforms PDFs and YouTube videos into interactive quizzes, making exam preparation faster and more engaging. 
+>>>>>>> 185fdc1ef4455cf0a8e233b5e9ce6d9f78eb883b
 
 **The Problem:**  
 Students struggle with last-minute revisions through lengthy PDFs and videos. Finding key concepts quickly and testing knowledge in real-time remains a challenge.
@@ -12,12 +18,15 @@ An AI-driven platform that:
 🏆 Tracks progress with leaderboards and streaks  
 🤖 Provides instant doubt-solving via AI chatbot  
 
+<<<<<<< HEAD
 ## 👨‍💻 Team DevSquad
 - Sachin Sharma  
 - Vansh Tyagi  
 - Aparna Ojha  
 - Ankit Gupta  
 
+=======
+>>>>>>> 185fdc1ef4455cf0a8e233b5e9ce6d9f78eb883b
 ## 🌟 Key Features
 - **AI-Powered Quiz Generation**  
   Upload PDFs or paste YouTube links to instantly create quizzes  
@@ -56,8 +65,13 @@ An AI-driven platform that:
 
 1. **Clone the repository**:
    ```bash
+<<<<<<< HEAD
    git clone https://github.com/your-repo/flashlearn.git
    cd flashlearn
+=======
+   git clone https://github.com/iamaparnaojha/studybuddy.git
+   cd studybuddy
+>>>>>>> 185fdc1ef4455cf0a8e233b5e9ce6d9f78eb883b
    ```
 
 2. **Split the terminal and navigate to both server and client directories**:
@@ -120,6 +134,7 @@ An AI-driven platform that:
      ```
    - **Click the link** shown in the client terminal to open the application.
    - To stop the client, press `Ctrl + C` in the terminal.
+<<<<<<< HEAD
   
 
 ### 📩 Contact Us
@@ -128,3 +143,5 @@ If you have any queries or suggestions, feel free to contact us:
 - vanshjii021@gmail.com
 - ojhaaparna0@gmail.com
 - ankitgupta23sep@gmail.com
+=======
+>>>>>>> 185fdc1ef4455cf0a8e233b5e9ce6d9f78eb883b
