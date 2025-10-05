@@ -1,6 +1,6 @@
 # 🚀 Studybuddy/FlashLearn
 
-Studybuddy is an AI-powered learning platform that transforms PDFs and YouTube videos into interactive quizzes, making exam preparation faster and more engaging. 
+Studybuddy/FlashLearn is an AI-powered learning platform that transforms PDFs and YouTube videos into interactive quizzes, making exam preparation faster and more engaging. 
 
 **The Problem:**  
 Students struggle with last-minute revisions through lengthy PDFs and videos. Finding key concepts quickly and testing knowledge in real-time remains a challenge.
