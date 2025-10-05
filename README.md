@@ -1,7 +1,6 @@
 # 🚀 Studybuddy/FlashLearn
 
 Studybuddy is an AI-powered learning platform that transforms PDFs and YouTube videos into interactive quizzes, making exam preparation faster and more engaging. 
->>>>>>> 185fdc1ef4455cf0a8e233b5e9ce6d9f78eb883b
 
 **The Problem:**  
 Students struggle with last-minute revisions through lengthy PDFs and videos. Finding key concepts quickly and testing knowledge in real-time remains a challenge.
@@ -12,9 +11,6 @@ An AI-driven platform that:
 🎥 Converts YouTube videos into bite-sized quizzes  
 🏆 Tracks progress with leaderboards and streaks  
 🤖 Provides instant doubt-solving via AI chatbot  
-
-=======
->>>>>>> 185fdc1ef4455cf0a8e233b5e9ce6d9f78eb883b
 ## 🌟 Key Features
 - **AI-Powered Quiz Generation**  
   Upload PDFs or paste YouTube links to instantly create quizzes  
@@ -55,8 +51,6 @@ An AI-driven platform that:
    ```bash
    git clone https://github.com/iamaparnaojha/studybuddy.git
    cd studybuddy
->>>>>>> 185fdc1ef4455cf0a8e233b5e9ce6d9f78eb883b
-   ```
 
 2. **Split the terminal and navigate to both server and client directories**:
    ```bash
@@ -118,5 +112,4 @@ An AI-driven platform that:
      ```
    - **Click the link** shown in the client terminal to open the application.
    - To stop the client, press `Ctrl + C` in the terminal.
-<<<<<<< HEAD
- 
+
